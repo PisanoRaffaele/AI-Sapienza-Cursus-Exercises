@@ -323,13 +323,23 @@ Image bilateral_filter(const Image &im, float sigma1, float sigma2) {
     Image bf = im;
     float W = 0;
     float w = 0;
+    float ke = 6 * sigma1;
+    //Image filterB()
+    Image filterG1 = make_gaussian_filter(sigma1);
     for(int i = 0; i < bf.w; i++)
     {
         for(int j = 0; j < bf.h; j++)
         {
             for(int k = 0; k < bf.c; k++)
             {
+                for (int k1 = -ke; k1 <= ke; k1++)
+                {
+                    for (int k2 = -ke; k2 <= ke; k2++)
+                    {
+                        w = filterG1(k1,k2) * (im(i,j,k) - im.clamped_pixel(i+1, j+1, k));
 
+                    }
+                }
             }
         }
     }

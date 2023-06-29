@@ -1,0 +1,12 @@
+Categories: 345
+TotSamples: 138000
+trainingSamples: 200
+batchSize: 64
+optimizerName: Adam
+modelName: GoogleNet
+actFnName: relu
+learningRate: 0.001
+weightDeacy: 0.0001
+epochs: 50
+
+GoogleNet Results {'test_acc': 0.5845797061920166, 'val_acc': 0.5865796804428101}

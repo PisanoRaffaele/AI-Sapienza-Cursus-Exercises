@@ -1,0 +1,11 @@
+Categories: 345
+TotSamples: 138000
+trainingSamples: 200
+batchSize: 64
+optimizerName: Adam
+modelName: ResNet
+actFnName: relu
+learningRate: 0.001
+weightDeacy: 0.0001
+
+ResNet Results {'test_acc': 0.5422898530960083, 'val_acc': 0.5411304235458374}

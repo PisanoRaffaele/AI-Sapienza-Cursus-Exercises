@@ -1,0 +1,12 @@
+Categories: 345
+TotSamples: 414000
+trainingSamples: 800
+batchSize: 64
+optimizerName: SGD
+modelName: ResNet
+actFnName: tanh
+learningRate: 0.1
+weightDeacy: 0.0001
+epochs: 55
+
+ResNet Results {'test_acc': 0.6504927277565002, 'val_acc': 0.6488260626792908}

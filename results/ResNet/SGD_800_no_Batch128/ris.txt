@@ -1,0 +1,11 @@
+Categories: 345
+TotSamples: 414000
+trainingSamples: 800
+batchSize: 128
+optimizerName: SGD
+modelName: ResNet
+actFnName: relu
+learningRate: 0.1
+weightDeacy: 0.0001
+epochs: 42
+ResNet Results {'test_acc': 0.6726086735725403, 'val_acc': 0.6698405742645264}

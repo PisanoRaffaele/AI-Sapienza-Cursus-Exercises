@@ -1,0 +1,1751 @@
+Categories: 345
+TotSamples: 138000
+trainingSamples: 200
+batchSize: 64
+optimizerName: SGD
+modelName: ResNet
+actFnName: relu
+learningRate: 0.1
+weightDeacy: 0.0001
+epochs: 150
+
+ResNet Results {'test_acc': 0.5940290093421936, 'val_acc': 0.5937970876693726}
+
+Accuracy:
+aircraft carrier [acc]: 0.9959855072463768
+airplane [acc]: 0.9984057971014493
+alarm clock [acc]: 0.9979565217391304
+ambulance [acc]: 0.9975652173913043
+angel [acc]: 0.9979710144927536
+animal migration [acc]: 0.9952753623188406
+ant [acc]: 0.9975217391304347
+anvil [acc]: 0.9985797101449275
+apple [acc]: 0.9985507246376811
+arm [acc]: 0.9973478260869565
+asparagus [acc]: 0.9967391304347826
+axe [acc]: 0.998
+backpack [acc]: 0.9978550724637681
+banana [acc]: 0.9977101449275362
+bandage [acc]: 0.997927536231884
+barn [acc]: 0.9974492753623189
+baseball [acc]: 0.9977971014492754
+baseball bat [acc]: 0.9981884057971014
+basket [acc]: 0.9978550724637681
+basketball [acc]: 0.9972463768115942
+bat [acc]: 0.9970434782608696
+bathtub [acc]: 0.9969855072463768
+beach [acc]: 0.9968115942028986
+bear [acc]: 0.9957101449275362
+beard [acc]: 0.996927536231884
+bed [acc]: 0.9978260869565218
+bee [acc]: 0.9980434782608696
+belt [acc]: 0.9975652173913043
+bench [acc]: 0.997231884057971
+bicycle [acc]: 0.9974347826086957
+binoculars [acc]: 0.9980289855072464
+bird [acc]: 0.9968115942028986
+birthday cake [acc]: 0.9968550724637681
+blackberry [acc]: 0.995159420289855
+blueberry [acc]: 0.9964202898550725
+book [acc]: 0.9978695652173913
+boomerang [acc]: 0.9976231884057971
+bottlecap [acc]: 0.9969130434782608
+bowtie [acc]: 0.9986521739130435
+bracelet [acc]: 0.9974492753623189
+brain [acc]: 0.9967246376811594
+bread [acc]: 0.9974347826086957
+bridge [acc]: 0.9968260869565218
+broccoli [acc]: 0.997768115942029
+broom [acc]: 0.9973913043478261
+bucket [acc]: 0.9979565217391304
+bulldozer [acc]: 0.9974057971014493
+bus [acc]: 0.9965507246376811
+bush [acc]: 0.9967246376811594
+butterfly [acc]: 0.9989130434782608
+cactus [acc]: 0.998231884057971
+cake [acc]: 0.996840579710145
+calculator [acc]: 0.9984637681159421
+calendar [acc]: 0.9965217391304347
+camel [acc]: 0.9986376811594203
+camera [acc]: 0.9986956521739131
+camouflage [acc]: 0.9944202898550725
+campfire [acc]: 0.9974202898550725
+candle [acc]: 0.9977826086956522
+cannon [acc]: 0.9968695652173913
+canoe [acc]: 0.9978550724637681
+car [acc]: 0.9972898550724638
+carrot [acc]: 0.9987101449275362
+castle [acc]: 0.9977246376811594
+cat [acc]: 0.9973913043478261
+ceiling fan [acc]: 0.9982898550724638
+cello [acc]: 0.9973623188405797
+cell phone [acc]: 0.9976666666666667
+chair [acc]: 0.999
+chandelier [acc]: 0.9975652173913043
+church [acc]: 0.9976521739130435
+circle [acc]: 0.9981014492753624
+clarinet [acc]: 0.9969710144927536
+clock [acc]: 0.9984492753623189
+cloud [acc]: 0.9979710144927536
+coffee cup [acc]: 0.9974637681159421
+compass [acc]: 0.9977971014492754
+computer [acc]: 0.9980869565217392
+cookie [acc]: 0.9979420289855072
+cooler [acc]: 0.9966666666666667
+couch [acc]: 0.9980869565217392
+cow [acc]: 0.9969710144927536
+crab [acc]: 0.9974057971014493
+crayon [acc]: 0.996927536231884
+crocodile [acc]: 0.9966666666666667
+crown [acc]: 0.9987101449275362
+cruise ship [acc]: 0.9976376811594203
+cup [acc]: 0.9961884057971014
+diamond [acc]: 0.9986521739130435
+dishwasher [acc]: 0.9973478260869565
+diving board [acc]: 0.9971884057971014
+dog [acc]: 0.9955507246376811
+dolphin [acc]: 0.9974202898550725
+donut [acc]: 0.9986376811594203
+door [acc]: 0.9986231884057971
+dragon [acc]: 0.9958985507246377
+dresser [acc]: 0.9969855072463768
+drill [acc]: 0.9981159420289855
+drums [acc]: 0.9969710144927536
+duck [acc]: 0.997231884057971
+dumbbell [acc]: 0.998231884057971
+ear [acc]: 0.9983188405797101
+elbow [acc]: 0.9968840579710145
+elephant [acc]: 0.9967391304347826
+envelope [acc]: 0.9993768115942029
+eraser [acc]: 0.9965652173913043
+eye [acc]: 0.9986086956521739
+eyeglasses [acc]: 0.9984927536231885
+face [acc]: 0.9974202898550725
+fan [acc]: 0.9976231884057971
+feather [acc]: 0.9964492753623189
+fence [acc]: 0.9978840579710145
+finger [acc]: 0.9978840579710145
+fire hydrant [acc]: 0.997840579710145
+fireplace [acc]: 0.9974782608695653
+firetruck [acc]: 0.9971739130434782
+fish [acc]: 0.9988115942028986
+flamingo [acc]: 0.9980869565217392
+flashlight [acc]: 0.9979710144927536
+flip flops [acc]: 0.998
+floor lamp [acc]: 0.9981304347826087
+flower [acc]: 0.998
+flying saucer [acc]: 0.998072463768116
+foot [acc]: 0.9977826086956522
+fork [acc]: 0.9983333333333333
+frog [acc]: 0.9955507246376811
+frying pan [acc]: 0.9983043478260869
+garden [acc]: 0.9966376811594203
+garden hose [acc]: 0.9965217391304347
+giraffe [acc]: 0.9988840579710145
+goatee [acc]: 0.9975217391304347
+golf club [acc]: 0.9973623188405797
+grapes [acc]: 0.9973913043478261
+grass [acc]: 0.9974492753623189
+guitar [acc]: 0.9968695652173913
+hamburger [acc]: 0.9986086956521739
+hammer [acc]: 0.9983188405797101
+hand [acc]: 0.9986231884057971
+harp [acc]: 0.9986086956521739
+hat [acc]: 0.9977826086956522
+headphones [acc]: 0.9994202898550725
+hedgehog [acc]: 0.9974347826086957
+helicopter [acc]: 0.9982028985507246
+helmet [acc]: 0.9972028985507246
+hexagon [acc]: 0.9975797101449275
+hockey puck [acc]: 0.997072463768116
+hockey stick [acc]: 0.9974057971014493
+horse [acc]: 0.9975362318840579
+hospital [acc]: 0.9981884057971014
+hot air balloon [acc]: 0.9979710144927536
+hot dog [acc]: 0.9968840579710145
+hot tub [acc]: 0.9962753623188406
+hourglass [acc]: 0.999231884057971
+house [acc]: 0.9981884057971014
+house plant [acc]: 0.9986086956521739
+hurricane [acc]: 0.9957101449275362
+ice cream [acc]: 0.9991014492753623
+jacket [acc]: 0.998159420289855
+jail [acc]: 0.9985797101449275
+kangaroo [acc]: 0.9974347826086957
+key [acc]: 0.9975072463768115
+keyboard [acc]: 0.9965797101449275
+knee [acc]: 0.9971449275362319
+knife [acc]: 0.9975362318840579
+ladder [acc]: 0.9993478260869565
+lantern [acc]: 0.9970869565217392
+laptop [acc]: 0.9977536231884058
+leaf [acc]: 0.9975797101449275
+leg [acc]: 0.9967971014492754
+light bulb [acc]: 0.9978260869565218
+lighter [acc]: 0.9978550724637681
+lighthouse [acc]: 0.9978840579710145
+lightning [acc]: 0.9973623188405797
+line [acc]: 0.9978115942028986
+lion [acc]: 0.9978260869565218
+lipstick [acc]: 0.9979565217391304
+lobster [acc]: 0.9963913043478261
+lollipop [acc]: 0.9988550724637681
+mailbox [acc]: 0.998159420289855
+map [acc]: 0.9973913043478261
+marker [acc]: 0.995840579710145
+matches [acc]: 0.9967971014492754
+megaphone [acc]: 0.998
+mermaid [acc]: 0.9978115942028986
+microphone [acc]: 0.998
+microwave [acc]: 0.9986376811594203
+monkey [acc]: 0.9966956521739131
+moon [acc]: 0.9972898550724638
+mosquito [acc]: 0.9966376811594203
+motorbike [acc]: 0.9968550724637681
+mountain [acc]: 0.9980869565217392
+mouse [acc]: 0.9965652173913043
+moustache [acc]: 0.9972898550724638
+mouth [acc]: 0.997927536231884
+mug [acc]: 0.9972028985507246
+mushroom [acc]: 0.9986231884057971
+nail [acc]: 0.9976521739130435
+necklace [acc]: 0.9974637681159421
+nose [acc]: 0.9977536231884058
+ocean [acc]: 0.9969420289855072
+octagon [acc]: 0.9979565217391304
+octopus [acc]: 0.9987101449275362
+onion [acc]: 0.997768115942029
+oven [acc]: 0.9968115942028986
+owl [acc]: 0.9976086956521739
+paintbrush [acc]: 0.9968260869565218
+paint can [acc]: 0.9968115942028986
+palm tree [acc]: 0.9983188405797101
+panda [acc]: 0.9969855072463768
+pants [acc]: 0.9986666666666667
+paper clip [acc]: 0.9981884057971014
+parachute [acc]: 0.9986376811594203
+parrot [acc]: 0.9967536231884058
+passport [acc]: 0.9970434782608696
+peanut [acc]: 0.9979420289855072
+pear [acc]: 0.9987971014492754
+peas [acc]: 0.9961014492753624
+pencil [acc]: 0.9965652173913043
+penguin [acc]: 0.9976086956521739
+piano [acc]: 0.9970579710144928
+pickup truck [acc]: 0.9972173913043478
+picture frame [acc]: 0.9985072463768115
+pig [acc]: 0.9973768115942029
+pillow [acc]: 0.9977101449275362
+pineapple [acc]: 0.9985652173913043
+pizza [acc]: 0.9972463768115942
+pliers [acc]: 0.997231884057971
+police car [acc]: 0.9977826086956522
+pond [acc]: 0.9955362318840579
+pool [acc]: 0.9958260869565217
+popsicle [acc]: 0.9986376811594203
+postcard [acc]: 0.9977391304347826
+potato [acc]: 0.9970869565217392
+power outlet [acc]: 0.9978550724637681
+purse [acc]: 0.9979130434782608
+rabbit [acc]: 0.9974927536231885
+raccoon [acc]: 0.9958115942028986
+radio [acc]: 0.9974347826086957
+rain [acc]: 0.9984492753623189
+rainbow [acc]: 0.998927536231884
+rake [acc]: 0.9981159420289855
+remote control [acc]: 0.9977246376811594
+rhinoceros [acc]: 0.9973188405797101
+rifle [acc]: 0.9969565217391304
+river [acc]: 0.9975797101449275
+roller coaster [acc]: 0.9973043478260869
+rollerskates [acc]: 0.9989710144927536
+sailboat [acc]: 0.9989420289855072
+sandwich [acc]: 0.9973913043478261
+saw [acc]: 0.9983913043478261
+saxophone [acc]: 0.998072463768116
+school bus [acc]: 0.9964637681159421
+scissors [acc]: 0.9980289855072464
+scorpion [acc]: 0.9979420289855072
+screwdriver [acc]: 0.9973623188405797
+sea turtle [acc]: 0.9978550724637681
+see saw [acc]: 0.9984927536231885
+shark [acc]: 0.9976811594202899
+sheep [acc]: 0.9983623188405797
+shoe [acc]: 0.9972463768115942
+shorts [acc]: 0.9982608695652174
+shovel [acc]: 0.9979565217391304
+sink [acc]: 0.9977536231884058
+skateboard [acc]: 0.9985797101449275
+skull [acc]: 0.9986811594202899
+skyscraper [acc]: 0.997927536231884
+sleeping bag [acc]: 0.9975362318840579
+smiley face [acc]: 0.9981159420289855
+snail [acc]: 0.9986231884057971
+snake [acc]: 0.9967101449275362
+snorkel [acc]: 0.9973478260869565
+snowflake [acc]: 0.9985217391304347
+snowman [acc]: 0.9988550724637681
+soccer ball [acc]: 0.9978115942028986
+sock [acc]: 0.9982608695652174
+speedboat [acc]: 0.9965072463768115
+spider [acc]: 0.9978840579710145
+spoon [acc]: 0.9974927536231885
+spreadsheet [acc]: 0.9973913043478261
+square [acc]: 0.9983043478260869
+squiggle [acc]: 0.9962028985507246
+squirrel [acc]: 0.9977246376811594
+stairs [acc]: 0.9992028985507246
+star [acc]: 0.9992463768115942
+steak [acc]: 0.9967101449275362
+stereo [acc]: 0.9974202898550725
+stethoscope [acc]: 0.9983188405797101
+stitches [acc]: 0.9980579710144928
+stop sign [acc]: 0.9988695652173913
+stove [acc]: 0.9977246376811594
+strawberry [acc]: 0.9985507246376811
+streetlight [acc]: 0.998072463768116
+string bean [acc]: 0.9965072463768115
+submarine [acc]: 0.9977391304347826
+suitcase [acc]: 0.9976811594202899
+sun [acc]: 0.9988115942028986
+swan [acc]: 0.9975942028985507
+sweater [acc]: 0.9978115942028986
+swing set [acc]: 0.9986956521739131
+sword [acc]: 0.9985507246376811
+syringe [acc]: 0.9978985507246377
+table [acc]: 0.998
+teapot [acc]: 0.998231884057971
+teddy-bear [acc]: 0.997927536231884
+telephone [acc]: 0.9970869565217392
+television [acc]: 0.9990579710144928
+tennis racquet [acc]: 0.9985942028985507
+tent [acc]: 0.9982608695652174
+The Eiffel Tower [acc]: 0.9985362318840579
+The Great Wall of China [acc]: 0.9963768115942029
+The Mona Lisa [acc]: 0.9982028985507246
+tiger [acc]: 0.9964202898550725
+toaster [acc]: 0.9973623188405797
+toe [acc]: 0.997072463768116
+toilet [acc]: 0.9983623188405797
+tooth [acc]: 0.9984782608695653
+toothbrush [acc]: 0.9972608695652174
+toothpaste [acc]: 0.996768115942029
+tornado [acc]: 0.9974202898550725
+tractor [acc]: 0.9978840579710145
+traffic light [acc]: 0.9986521739130435
+train [acc]: 0.9973913043478261
+tree [acc]: 0.9981449275362319
+triangle [acc]: 0.999072463768116
+trombone [acc]: 0.9966086956521739
+truck [acc]: 0.9959565217391304
+trumpet [acc]: 0.9966521739130435
+t-shirt [acc]: 0.998768115942029
+umbrella [acc]: 0.9990869565217392
+underwear [acc]: 0.9982608695652174
+van [acc]: 0.9966086956521739
+vase [acc]: 0.9979565217391304
+violin [acc]: 0.9959710144927536
+washing machine [acc]: 0.9983478260869565
+watermelon [acc]: 0.9973043478260869
+waterslide [acc]: 0.996927536231884
+whale [acc]: 0.9976521739130435
+wheel [acc]: 0.9976376811594203
+windmill [acc]: 0.9983043478260869
+wine bottle [acc]: 0.9985217391304347
+wine glass [acc]: 0.999231884057971
+wristwatch [acc]: 0.997768115942029
+yoga [acc]: 0.9969420289855072
+zebra [acc]: 0.9977246376811594
+zigzag [acc]: 0.9978550724637681
+
+
+PPV, Precision
+aircraft carrier [PPV]: 0.21052631578947367
+airplane [PPV]: 0.7319587628865979
+alarm clock [PPV]: 0.6745562130177515
+ambulance [PPV]: 0.6081081081081081
+angel [PPV]: 0.6415094339622641
+animal migration [PPV]: 0.3102409638554217
+ant [PPV]: 0.5633187772925764
+anvil [PPV]: 0.7833333333333333
+apple [PPV]: 0.7100840336134454
+arm [PPV]: 0.5410628019323671
+asparagus [PPV]: 0.4413145539906103
+axe [PPV]: 0.6631578947368421
+backpack [PPV]: 0.6101694915254238
+banana [PPV]: 0.584
+bandage [PPV]: 0.6610169491525424
+barn [PPV]: 0.5659340659340659
+baseball [PPV]: 0.6111111111111112
+baseball bat [PPV]: 0.6984126984126984
+basket [PPV]: 0.6494252873563219
+basketball [PPV]: 0.5255102040816326
+bat [PPV]: 0.491869918699187
+bathtub [PPV]: 0.4823008849557522
+beach [PPV]: 0.45614035087719296
+bear [PPV]: 0.28761061946902655
+beard [PPV]: 0.47413793103448276
+bed [PPV]: 0.6179245283018868
+bee [PPV]: 0.6457399103139013
+belt [PPV]: 0.5769230769230769
+bench [PPV]: 0.5266272189349113
+bicycle [PPV]: 0.5525114155251142
+binoculars [PPV]: 0.6553398058252428
+bird [PPV]: 0.4090909090909091
+birthday cake [PPV]: 0.4622222222222222
+blackberry [PPV]: 0.29573170731707316
+blueberry [PPV]: 0.39461883408071746
+book [PPV]: 0.6199095022624435
+boomerang [PPV]: 0.5818181818181818
+bottlecap [PPV]: 0.45454545454545453
+bowtie [PPV]: 0.7559808612440191
+bracelet [PPV]: 0.575
+brain [PPV]: 0.435
+bread [PPV]: 0.5782312925170068
+bridge [PPV]: 0.4512820512820513
+broccoli [PPV]: 0.625
+broom [PPV]: 0.5403225806451613
+bucket [PPV]: 0.6482412060301508
+bulldozer [PPV]: 0.567741935483871
+bus [PPV]: 0.41037735849056606
+bush [PPV]: 0.43564356435643564
+butterfly [PPV]: 0.8140703517587939
+cactus [PPV]: 0.75
+cake [PPV]: 0.45108695652173914
+calculator [PPV]: 0.7008547008547008
+calendar [PPV]: 0.4152542372881356
+camel [PPV]: 0.7704081632653061
+camera [PPV]: 0.7412280701754386
+camouflage [PPV]: 0.1285140562248996
+campfire [PPV]: 0.5419847328244275
+candle [PPV]: 0.5886792452830188
+cannon [PPV]: 0.4603960396039604
+canoe [PPV]: 0.6192660550458715
+car [PPV]: 0.5359116022099447
+carrot [PPV]: 0.7733990147783252
+castle [PPV]: 0.6113989637305699
+cat [PPV]: 0.5476190476190477
+ceiling fan [PPV]: 0.7029702970297029
+cello [PPV]: 0.5436893203883495
+cell phone [PPV]: 0.6054054054054054
+chair [PPV]: 0.8358974358974359
+chandelier [PPV]: 0.5720720720720721
+church [PPV]: 0.6079545454545454
+circle [PPV]: 0.6342412451361867
+clarinet [PPV]: 0.46938775510204084
+clock [PPV]: 0.746031746031746
+cloud [PPV]: 0.6415094339622641
+coffee cup [PPV]: 0.5714285714285714
+compass [PPV]: 0.6121495327102804
+computer [PPV]: 0.7151898734177216
+cookie [PPV]: 0.638095238095238
+cooler [PPV]: 0.36363636363636365
+couch [PPV]: 0.6752577319587629
+cow [PPV]: 0.4713375796178344
+crab [PPV]: 0.5502392344497608
+crayon [PPV]: 0.45652173913043476
+crocodile [PPV]: 0.43902439024390244
+crown [PPV]: 0.74235807860262
+cruise ship [PPV]: 0.5876777251184834
+cup [PPV]: 0.3724696356275304
+diamond [PPV]: 0.7661691542288557
+dishwasher [PPV]: 0.5555555555555556
+diving board [PPV]: 0.5283018867924528
+dog [PPV]: 0.23115577889447236
+dolphin [PPV]: 0.56875
+donut [PPV]: 0.7345132743362832
+door [PPV]: 0.7375565610859729
+dragon [PPV]: 0.28717948717948716
+dresser [PPV]: 0.483739837398374
+drill [PPV]: 0.6988636363636364
+drums [PPV]: 0.4827586206896552
+duck [PPV]: 0.5290322580645161
+dumbbell [PPV]: 0.672566371681416
+ear [PPV]: 0.7142857142857143
+elbow [PPV]: 0.46963562753036436
+elephant [PPV]: 0.4439461883408072
+envelope [PPV]: 0.8944723618090452
+eraser [PPV]: 0.40609137055837563
+eye [PPV]: 0.7452830188679245
+eyeglasses [PPV]: 0.7474226804123711
+face [PPV]: 0.5604395604395604
+fan [PPV]: 0.6363636363636364
+feather [PPV]: 0.40425531914893614
+fence [PPV]: 0.6261682242990654
+finger [PPV]: 0.6323529411764706
+fire hydrant [PPV]: 0.6783216783216783
+fireplace [PPV]: 0.5613207547169812
+firetruck [PPV]: 0.5112107623318386
+fish [PPV]: 0.797979797979798
+flamingo [PPV]: 0.660377358490566
+flashlight [PPV]: 0.6282051282051282
+flip flops [PPV]: 0.6802325581395349
+floor lamp [PPV]: 0.6682464454976303
+flower [PPV]: 0.6324786324786325
+flying saucer [PPV]: 0.710691823899371
+foot [PPV]: 0.6424242424242425
+fork [PPV]: 0.7073170731707317
+frog [PPV]: 0.24154589371980675
+frying pan [PPV]: 0.7515151515151515
+garden [PPV]: 0.43700787401574803
+garden hose [PPV]: 0.2872340425531915
+giraffe [PPV]: 0.8360655737704918
+goatee [PPV]: 0.5792349726775956
+golf club [PPV]: 0.5387931034482759
+grapes [PPV]: 0.545045045045045
+grass [PPV]: 0.546875
+guitar [PPV]: 0.46078431372549017
+hamburger [PPV]: 0.7524271844660194
+hammer [PPV]: 0.7258064516129032
+hand [PPV]: 0.7586206896551724
+harp [PPV]: 0.7954545454545454
+hat [PPV]: 0.6180904522613065
+headphones [PPV]: 0.9
+hedgehog [PPV]: 0.5454545454545454
+helicopter [PPV]: 0.6570247933884298
+helmet [PPV]: 0.518324607329843
+hexagon [PPV]: 0.5673469387755102
+hockey puck [PPV]: 0.4948453608247423
+hockey stick [PPV]: 0.5555555555555556
+horse [PPV]: 0.5646551724137931
+hospital [PPV]: 0.7027027027027027
+hot air balloon [PPV]: 0.6293103448275862
+hot dog [PPV]: 0.47035573122529645
+hot tub [PPV]: 0.3674418604651163
+hourglass [PPV]: 0.8656716417910447
+house [PPV]: 0.6847290640394089
+house plant [PPV]: 0.7321428571428571
+hurricane [PPV]: 0.26
+ice cream [PPV]: 0.8382352941176471
+jacket [PPV]: 0.7109826589595376
+jail [PPV]: 0.7575757575757576
+kangaroo [PPV]: 0.5493562231759657
+key [PPV]: 0.5673076923076923
+keyboard [PPV]: 0.4296875
+knee [PPV]: 0.5062240663900415
+knife [PPV]: 0.5707547169811321
+ladder [PPV]: 0.8934010152284264
+lantern [PPV]: 0.4977578475336323
+laptop [PPV]: 0.5903614457831325
+leaf [PPV]: 0.5942857142857143
+leg [PPV]: 0.44976076555023925
+light bulb [PPV]: 0.6785714285714286
+lighter [PPV]: 0.6203703703703703
+lighthouse [PPV]: 0.65
+lightning [PPV]: 0.5401785714285714
+line [PPV]: 0.5758513931888545
+lion [PPV]: 0.6404494382022472
+lipstick [PPV]: 0.6482412060301508
+lobster [PPV]: 0.31297709923664124
+lollipop [PPV]: 0.8102564102564103
+mailbox [PPV]: 0.6972972972972973
+map [PPV]: 0.5446428571428571
+marker [PPV]: 0.27225130890052357
+matches [PPV]: 0.43636363636363634
+megaphone [PPV]: 0.6476190476190476
+mermaid [PPV]: 0.6243654822335025
+microphone [PPV]: 0.6631578947368421
+microwave [PPV]: 0.7944444444444444
+monkey [PPV]: 0.42473118279569894
+moon [PPV]: 0.5359116022099447
+mosquito [PPV]: 0.4090909090909091
+motorbike [PPV]: 0.460093896713615
+mountain [PPV]: 0.660377358490566
+mouse [PPV]: 0.3790849673202614
+moustache [PPV]: 0.5296803652968036
+mouth [PPV]: 0.6461538461538462
+mug [PPV]: 0.5202312138728323
+mushroom [PPV]: 0.7900552486187845
+nail [PPV]: 0.6461538461538462
+necklace [PPV]: 0.5518672199170125
+nose [PPV]: 0.6018099547511312
+ocean [PPV]: 0.47639484978540775
+octagon [PPV]: 0.7122302158273381
+octopus [PPV]: 0.7761194029850746
+onion [PPV]: 0.632183908045977
+oven [PPV]: 0.421875
+owl [PPV]: 0.5906735751295337
+paintbrush [PPV]: 0.45622119815668205
+paint can [PPV]: 0.4397590361445783
+palm tree [PPV]: 0.6875
+panda [PPV]: 0.48214285714285715
+pants [PPV]: 0.725
+paper clip [PPV]: 0.694300518134715
+parachute [PPV]: 0.8441558441558441
+parrot [PPV]: 0.4491525423728814
+passport [PPV]: 0.489247311827957
+peanut [PPV]: 0.6559139784946236
+pear [PPV]: 0.8305084745762712
+peas [PPV]: 0.38144329896907214
+pencil [PPV]: 0.413953488372093
+penguin [PPV]: 0.5925925925925926
+piano [PPV]: 0.49056603773584906
+pickup truck [PPV]: 0.5224719101123596
+picture frame [PPV]: 0.7235023041474654
+pig [PPV]: 0.5575757575757576
+pillow [PPV]: 0.6458333333333334
+pineapple [PPV]: 0.7563451776649747
+pizza [PPV]: 0.5245098039215687
+pliers [PPV]: 0.5272727272727272
+police car [PPV]: 0.6666666666666666
+pond [PPV]: 0.3057553956834532
+pool [PPV]: 0.23809523809523808
+popsicle [PPV]: 0.7789473684210526
+postcard [PPV]: 0.6122448979591837
+potato [PPV]: 0.4977168949771689
+power outlet [PPV]: 0.6585365853658537
+purse [PPV]: 0.6666666666666666
+rabbit [PPV]: 0.5652173913043478
+raccoon [PPV]: 0.2541436464088398
+radio [PPV]: 0.5485232067510548
+rain [PPV]: 0.7123287671232876
+rainbow [PPV]: 0.7916666666666666
+rake [PPV]: 0.7302631578947368
+remote control [PPV]: 0.5972850678733032
+rhinoceros [PPV]: 0.5423728813559322
+rifle [PPV]: 0.4807692307692308
+river [PPV]: 0.6078431372549019
+roller coaster [PPV]: 0.5466666666666666
+rollerskates [PPV]: 0.8208955223880597
+sailboat [PPV]: 0.7953488372093023
+sandwich [PPV]: 0.5543478260869565
+saw [PPV]: 0.7258883248730964
+saxophone [PPV]: 0.6683417085427136
+school bus [PPV]: 0.3877551020408163
+scissors [PPV]: 0.6495327102803738
+scorpion [PPV]: 0.657608695652174
+screwdriver [PPV]: 0.5523255813953488
+sea turtle [PPV]: 0.6494252873563219
+see saw [PPV]: 0.7424242424242424
+shark [PPV]: 0.5952380952380952
+sheep [PPV]: 0.7430167597765364
+shoe [PPV]: 0.5221238938053098
+shorts [PPV]: 0.7352941176470589
+shovel [PPV]: 0.6705202312138728
+sink [PPV]: 0.616580310880829
+skateboard [PPV]: 0.7318181818181818
+skull [PPV]: 0.7766497461928934
+skyscraper [PPV]: 0.6748466257668712
+sleeping bag [PPV]: 0.5974025974025974
+smiley face [PPV]: 0.6388888888888888
+snail [PPV]: 0.7464788732394366
+snake [PPV]: 0.4470588235294118
+snorkel [PPV]: 0.5391705069124424
+snowflake [PPV]: 0.7606382978723404
+snowman [PPV]: 0.776255707762557
+soccer ball [PPV]: 0.6296296296296297
+sock [PPV]: 0.7040816326530612
+speedboat [PPV]: 0.4163265306122449
+spider [PPV]: 0.6227272727272727
+spoon [PPV]: 0.5542168674698795
+spreadsheet [PPV]: 0.5520833333333334
+square [PPV]: 0.6721991701244814
+squiggle [PPV]: 0.2987012987012987
+squirrel [PPV]: 0.6137566137566137
+stairs [PPV]: 0.864321608040201
+star [PPV]: 0.8978494623655914
+steak [PPV]: 0.4129032258064516
+stereo [PPV]: 0.5591397849462365
+stethoscope [PPV]: 0.7386363636363636
+stitches [PPV]: 0.665
+stop sign [PPV]: 0.7990196078431373
+stove [PPV]: 0.6137566137566137
+strawberry [PPV]: 0.7358490566037735
+streetlight [PPV]: 0.6830601092896175
+string bean [PPV]: 0.4
+submarine [PPV]: 0.6134020618556701
+suitcase [PPV]: 0.5900900900900901
+sun [PPV]: 0.797979797979798
+swan [PPV]: 0.5833333333333334
+sweater [PPV]: 0.6172248803827751
+swing set [PPV]: 0.7546296296296297
+sword [PPV]: 0.808641975308642
+syringe [PPV]: 0.6589595375722543
+table [PPV]: 0.6448598130841121
+teapot [PPV]: 0.7119565217391305
+teddy-bear [PPV]: 0.6461538461538462
+telephone [PPV]: 0.4965034965034965
+television [PPV]: 0.8461538461538461
+tennis racquet [PPV]: 0.7814207650273224
+tent [PPV]: 0.7
+The Eiffel Tower [PPV]: 0.7142857142857143
+The Great Wall of China [PPV]: 0.3188405797101449
+The Mona Lisa [PPV]: 0.6711711711711712
+tiger [PPV]: 0.3842364532019704
+toaster [PPV]: 0.545
+toe [PPV]: 0.49404761904761907
+toilet [PPV]: 0.6986301369863014
+tooth [PPV]: 0.7540106951871658
+toothbrush [PPV]: 0.5214007782101168
+toothpaste [PPV]: 0.3944954128440367
+tornado [PPV]: 0.5482456140350878
+tractor [PPV]: 0.6323529411764706
+traffic light [PPV]: 0.7635467980295566
+train [PPV]: 0.5595238095238095
+tree [PPV]: 0.6698113207547169
+triangle [PPV]: 0.8148148148148148
+trombone [PPV]: 0.38513513513513514
+truck [PPV]: 0.35424354243542433
+trumpet [PPV]: 0.4345991561181435
+t-shirt [PPV]: 0.757847533632287
+umbrella [PPV]: 0.8309178743961353
+underwear [PPV]: 0.7061855670103093
+van [PPV]: 0.4205607476635514
+vase [PPV]: 0.6398104265402843
+violin [PPV]: 0.32589285714285715
+washing machine [PPV]: 0.7171717171717171
+watermelon [PPV]: 0.5421686746987951
+waterslide [PPV]: 0.46875
+whale [PPV]: 0.625
+wheel [PPV]: 0.5800865800865801
+windmill [PPV]: 0.754601226993865
+wine bottle [PPV]: 0.7207207207207207
+wine glass [PPV]: 0.8693467336683417
+wristwatch [PPV]: 0.64375
+yoga [PPV]: 0.4682080924855491
+zebra [PPV]: 0.6162162162162163
+zigzag [PPV]: 0.6007751937984496
+
+
+TPR, True Positive Rate, Recall
+aircraft carrier [TPR]: 0.14
+airplane [TPR]: 0.71
+alarm clock [TPR]: 0.57
+ambulance [TPR]: 0.45
+angel [TPR]: 0.68
+animal migration [TPR]: 0.515
+ant [TPR]: 0.645
+anvil [TPR]: 0.705
+apple [TPR]: 0.845
+arm [TPR]: 0.56
+asparagus [TPR]: 0.47
+axe [TPR]: 0.63
+backpack [TPR]: 0.72
+banana [TPR]: 0.73
+bandage [TPR]: 0.585
+barn [TPR]: 0.515
+baseball [TPR]: 0.66
+baseball bat [TPR]: 0.66
+basket [TPR]: 0.565
+basketball [TPR]: 0.515
+bat [TPR]: 0.605
+bathtub [TPR]: 0.545
+beach [TPR]: 0.52
+bear [TPR]: 0.325
+beard [TPR]: 0.55
+bed [TPR]: 0.655
+bee [TPR]: 0.72
+belt [TPR]: 0.6
+bench [TPR]: 0.445
+bicycle [TPR]: 0.605
+binoculars [TPR]: 0.675
+bird [TPR]: 0.225
+birthday cake [TPR]: 0.52
+blackberry [TPR]: 0.485
+blueberry [TPR]: 0.44
+book [TPR]: 0.685
+boomerang [TPR]: 0.64
+bottlecap [TPR]: 0.325
+bowtie [TPR]: 0.79
+bracelet [TPR]: 0.46
+brain [TPR]: 0.435
+bread [TPR]: 0.425
+bridge [TPR]: 0.44
+broccoli [TPR]: 0.575
+broom [TPR]: 0.67
+bucket [TPR]: 0.645
+bulldozer [TPR]: 0.44
+bus [TPR]: 0.435
+bush [TPR]: 0.44
+butterfly [TPR]: 0.81
+cactus [TPR]: 0.585
+cake [TPR]: 0.415
+calculator [TPR]: 0.82
+calendar [TPR]: 0.49
+camel [TPR]: 0.755
+camera [TPR]: 0.845
+camouflage [TPR]: 0.16
+campfire [TPR]: 0.71
+candle [TPR]: 0.78
+cannon [TPR]: 0.465
+canoe [TPR]: 0.675
+car [TPR]: 0.485
+carrot [TPR]: 0.785
+castle [TPR]: 0.59
+cat [TPR]: 0.575
+ceiling fan [TPR]: 0.71
+cello [TPR]: 0.56
+cell phone [TPR]: 0.56
+chair [TPR]: 0.815
+chandelier [TPR]: 0.635
+church [TPR]: 0.535
+circle [TPR]: 0.815
+clarinet [TPR]: 0.345
+clock [TPR]: 0.705
+cloud [TPR]: 0.68
+coffee cup [TPR]: 0.5
+compass [TPR]: 0.655
+computer [TPR]: 0.565
+cookie [TPR]: 0.67
+cooler [TPR]: 0.2
+couch [TPR]: 0.655
+cow [TPR]: 0.37
+crab [TPR]: 0.575
+crayon [TPR]: 0.315
+crocodile [TPR]: 0.54
+crown [TPR]: 0.85
+cruise ship [TPR]: 0.62
+cup [TPR]: 0.46
+diamond [TPR]: 0.77
+dishwasher [TPR]: 0.425
+diving board [TPR]: 0.28
+dog [TPR]: 0.23
+dolphin [TPR]: 0.455
+donut [TPR]: 0.83
+door [TPR]: 0.815
+dragon [TPR]: 0.28
+dresser [TPR]: 0.595
+drill [TPR]: 0.615
+drums [TPR]: 0.63
+duck [TPR]: 0.41
+dumbbell [TPR]: 0.76
+ear [TPR]: 0.7
+elbow [TPR]: 0.58
+elephant [TPR]: 0.495
+envelope [TPR]: 0.89
+eraser [TPR]: 0.4
+eye [TPR]: 0.79
+eyeglasses [TPR]: 0.725
+face [TPR]: 0.51
+fan [TPR]: 0.42
+feather [TPR]: 0.475
+fence [TPR]: 0.67
+finger [TPR]: 0.645
+fire hydrant [TPR]: 0.485
+fireplace [TPR]: 0.595
+firetruck [TPR]: 0.57
+fish [TPR]: 0.79
+flamingo [TPR]: 0.7
+flashlight [TPR]: 0.735
+flip flops [TPR]: 0.585
+floor lamp [TPR]: 0.705
+flower [TPR]: 0.74
+flying saucer [TPR]: 0.565
+foot [TPR]: 0.53
+fork [TPR]: 0.725
+frog [TPR]: 0.25
+frying pan [TPR]: 0.62
+garden [TPR]: 0.555
+garden hose [TPR]: 0.135
+giraffe [TPR]: 0.765
+goatee [TPR]: 0.53
+golf club [TPR]: 0.625
+grapes [TPR]: 0.605
+grass [TPR]: 0.7
+guitar [TPR]: 0.47
+hamburger [TPR]: 0.775
+hammer [TPR]: 0.675
+hand [TPR]: 0.77
+harp [TPR]: 0.7
+hat [TPR]: 0.615
+headphones [TPR]: 0.9
+hedgehog [TPR]: 0.69
+helicopter [TPR]: 0.795
+helmet [TPR]: 0.495
+hexagon [TPR]: 0.695
+hockey puck [TPR]: 0.48
+hockey stick [TPR]: 0.525
+horse [TPR]: 0.655
+hospital [TPR]: 0.65
+hot air balloon [TPR]: 0.73
+hot dog [TPR]: 0.595
+hot tub [TPR]: 0.395
+hourglass [TPR]: 0.87
+house [TPR]: 0.695
+house plant [TPR]: 0.82
+hurricane [TPR]: 0.26
+ice cream [TPR]: 0.855
+jacket [TPR]: 0.615
+jail [TPR]: 0.75
+kangaroo [TPR]: 0.64
+key [TPR]: 0.59
+keyboard [TPR]: 0.55
+knee [TPR]: 0.61
+knife [TPR]: 0.605
+ladder [TPR]: 0.88
+lantern [TPR]: 0.555
+laptop [TPR]: 0.735
+leaf [TPR]: 0.52
+leg [TPR]: 0.47
+light bulb [TPR]: 0.475
+lighter [TPR]: 0.67
+lighthouse [TPR]: 0.585
+lightning [TPR]: 0.605
+line [TPR]: 0.93
+lion [TPR]: 0.57
+lipstick [TPR]: 0.645
+lobster [TPR]: 0.205
+lollipop [TPR]: 0.79
+mailbox [TPR]: 0.645
+map [TPR]: 0.61
+marker [TPR]: 0.26
+matches [TPR]: 0.36
+megaphone [TPR]: 0.68
+mermaid [TPR]: 0.615
+microphone [TPR]: 0.63
+microwave [TPR]: 0.715
+monkey [TPR]: 0.395
+moon [TPR]: 0.485
+mosquito [TPR]: 0.36
+motorbike [TPR]: 0.49
+mountain [TPR]: 0.7
+mouse [TPR]: 0.29
+moustache [TPR]: 0.58
+mouth [TPR]: 0.63
+mug [TPR]: 0.45
+mushroom [TPR]: 0.715
+nail [TPR]: 0.42
+necklace [TPR]: 0.665
+nose [TPR]: 0.665
+ocean [TPR]: 0.555
+octagon [TPR]: 0.495
+octopus [TPR]: 0.78
+onion [TPR]: 0.55
+oven [TPR]: 0.27
+owl [TPR]: 0.57
+paintbrush [TPR]: 0.495
+paint can [TPR]: 0.365
+palm tree [TPR]: 0.77
+panda [TPR]: 0.54
+pants [TPR]: 0.87
+paper clip [TPR]: 0.67
+parachute [TPR]: 0.65
+parrot [TPR]: 0.53
+passport [TPR]: 0.455
+peanut [TPR]: 0.61
+pear [TPR]: 0.735
+peas [TPR]: 0.555
+pencil [TPR]: 0.445
+penguin [TPR]: 0.56
+piano [TPR]: 0.39
+pickup truck [TPR]: 0.465
+picture frame [TPR]: 0.785
+pig [TPR]: 0.46
+pillow [TPR]: 0.465
+pineapple [TPR]: 0.745
+pizza [TPR]: 0.535
+pliers [TPR]: 0.435
+police car [TPR]: 0.47
+pond [TPR]: 0.425
+pool [TPR]: 0.2
+popsicle [TPR]: 0.74
+postcard [TPR]: 0.6
+potato [TPR]: 0.545
+power outlet [TPR]: 0.54
+purse [TPR]: 0.56
+rabbit [TPR]: 0.585
+raccoon [TPR]: 0.23
+radio [TPR]: 0.65
+rain [TPR]: 0.78
+rainbow [TPR]: 0.855
+rake [TPR]: 0.555
+remote control [TPR]: 0.66
+rhinoceros [TPR]: 0.48
+rifle [TPR]: 0.625
+river [TPR]: 0.465
+roller coaster [TPR]: 0.41
+rollerskates [TPR]: 0.825
+sailboat [TPR]: 0.855
+sandwich [TPR]: 0.51
+saw [TPR]: 0.715
+saxophone [TPR]: 0.665
+school bus [TPR]: 0.38
+scissors [TPR]: 0.695
+scorpion [TPR]: 0.605
+screwdriver [TPR]: 0.475
+sea turtle [TPR]: 0.565
+see saw [TPR]: 0.735
+shark [TPR]: 0.625
+sheep [TPR]: 0.665
+shoe [TPR]: 0.59
+shorts [TPR]: 0.625
+shovel [TPR]: 0.58
+sink [TPR]: 0.595
+skateboard [TPR]: 0.805
+skull [TPR]: 0.765
+skyscraper [TPR]: 0.55
+sleeping bag [TPR]: 0.46
+smiley face [TPR]: 0.805
+snail [TPR]: 0.795
+snake [TPR]: 0.57
+snorkel [TPR]: 0.585
+snowflake [TPR]: 0.715
+snowman [TPR]: 0.85
+soccer ball [TPR]: 0.595
+sock [TPR]: 0.69
+speedboat [TPR]: 0.51
+spider [TPR]: 0.685
+spoon [TPR]: 0.69
+spreadsheet [TPR]: 0.53
+square [TPR]: 0.81
+squiggle [TPR]: 0.23
+squirrel [TPR]: 0.58
+stairs [TPR]: 0.86
+star [TPR]: 0.835
+steak [TPR]: 0.32
+stereo [TPR]: 0.52
+stethoscope [TPR]: 0.65
+stitches [TPR]: 0.665
+stop sign [TPR]: 0.815
+stove [TPR]: 0.58
+strawberry [TPR]: 0.78
+streetlight [TPR]: 0.625
+string bean [TPR]: 0.41
+submarine [TPR]: 0.595
+suitcase [TPR]: 0.655
+sun [TPR]: 0.79
+swan [TPR]: 0.595
+sweater [TPR]: 0.645
+swing set [TPR]: 0.815
+sword [TPR]: 0.655
+syringe [TPR]: 0.57
+table [TPR]: 0.69
+teapot [TPR]: 0.655
+teddy-bear [TPR]: 0.63
+telephone [TPR]: 0.355
+television [TPR]: 0.825
+tennis racquet [TPR]: 0.715
+tent [TPR]: 0.7
+The Eiffel Tower [TPR]: 0.825
+The Great Wall of China [TPR]: 0.22
+The Mona Lisa [TPR]: 0.745
+tiger [TPR]: 0.39
+toaster [TPR]: 0.545
+toe [TPR]: 0.415
+toilet [TPR]: 0.765
+tooth [TPR]: 0.705
+toothbrush [TPR]: 0.67
+toothpaste [TPR]: 0.215
+tornado [TPR]: 0.625
+tractor [TPR]: 0.645
+traffic light [TPR]: 0.775
+train [TPR]: 0.47
+tree [TPR]: 0.71
+triangle [TPR]: 0.88
+trombone [TPR]: 0.285
+truck [TPR]: 0.48
+trumpet [TPR]: 0.515
+t-shirt [TPR]: 0.845
+umbrella [TPR]: 0.86
+underwear [TPR]: 0.685
+van [TPR]: 0.45
+vase [TPR]: 0.675
+violin [TPR]: 0.365
+washing machine [TPR]: 0.71
+watermelon [TPR]: 0.45
+waterslide [TPR]: 0.45
+whale [TPR]: 0.475
+wheel [TPR]: 0.67
+windmill [TPR]: 0.615
+wine bottle [TPR]: 0.8
+wine glass [TPR]: 0.865
+wristwatch [TPR]: 0.515
+yoga [TPR]: 0.405
+zebra [TPR]: 0.57
+zigzag [TPR]: 0.775
+
+
+F1-Score
+aircraft carrier [F1]: 0.16816816816816818
+airplane [F1]: 0.7208121827411167
+alarm clock [F1]: 0.6178861788617885
+ambulance [F1]: 0.5172413793103449
+angel [F1]: 0.6601941747572816
+animal migration [F1]: 0.387218045112782
+ant [F1]: 0.6013986013986015
+anvil [F1]: 0.7421052631578948
+apple [F1]: 0.7716894977168951
+arm [F1]: 0.5503685503685504
+asparagus [F1]: 0.4552058111380145
+axe [F1]: 0.6461538461538461
+backpack [F1]: 0.6605504587155964
+banana [F1]: 0.6488888888888888
+bandage [F1]: 0.6206896551724138
+barn [F1]: 0.5392670157068064
+baseball [F1]: 0.6346153846153846
+baseball bat [F1]: 0.6786632390745502
+basket [F1]: 0.6042780748663102
+basketball [F1]: 0.5202020202020201
+bat [F1]: 0.5426008968609866
+bathtub [F1]: 0.511737089201878
+beach [F1]: 0.48598130841121495
+bear [F1]: 0.30516431924882625
+beard [F1]: 0.5092592592592592
+bed [F1]: 0.6359223300970874
+bee [F1]: 0.6808510638297872
+belt [F1]: 0.5882352941176471
+bench [F1]: 0.48238482384823844
+bicycle [F1]: 0.5775656324582339
+binoculars [F1]: 0.6650246305418719
+bird [F1]: 0.2903225806451613
+birthday cake [F1]: 0.4894117647058823
+blackberry [F1]: 0.36742424242424243
+blueberry [F1]: 0.4160756501182033
+book [F1]: 0.6508313539192399
+boomerang [F1]: 0.6095238095238096
+bottlecap [F1]: 0.37900874635568516
+bowtie [F1]: 0.7726161369193154
+bracelet [F1]: 0.5111111111111112
+brain [F1]: 0.435
+bread [F1]: 0.4899135446685879
+bridge [F1]: 0.44556962025316454
+broccoli [F1]: 0.5989583333333334
+broom [F1]: 0.5982142857142856
+bucket [F1]: 0.6466165413533834
+bulldozer [F1]: 0.49577464788732395
+bus [F1]: 0.4223300970873786
+bush [F1]: 0.43781094527363185
+butterfly [F1]: 0.81203007518797
+cactus [F1]: 0.6573033707865168
+cake [F1]: 0.4322916666666667
+calculator [F1]: 0.7557603686635944
+calendar [F1]: 0.44954128440366975
+camel [F1]: 0.7626262626262627
+camera [F1]: 0.7897196261682242
+camouflage [F1]: 0.1425389755011136
+campfire [F1]: 0.6147186147186147
+candle [F1]: 0.6709677419354838
+cannon [F1]: 0.4626865671641791
+canoe [F1]: 0.6459330143540669
+car [F1]: 0.5091863517060368
+carrot [F1]: 0.7791563275434242
+castle [F1]: 0.6005089058524172
+cat [F1]: 0.5609756097560975
+ceiling fan [F1]: 0.7064676616915423
+cello [F1]: 0.5517241379310345
+cell phone [F1]: 0.5818181818181819
+chair [F1]: 0.8253164556962025
+chandelier [F1]: 0.6018957345971565
+church [F1]: 0.5691489361702127
+circle [F1]: 0.7133479212253829
+clarinet [F1]: 0.3976945244956772
+clock [F1]: 0.7249357326478149
+cloud [F1]: 0.6601941747572816
+coffee cup [F1]: 0.5333333333333333
+compass [F1]: 0.6328502415458938
+computer [F1]: 0.6312849162011173
+cookie [F1]: 0.6536585365853659
+cooler [F1]: 0.25806451612903225
+couch [F1]: 0.6649746192893402
+cow [F1]: 0.41456582633053224
+crab [F1]: 0.5623471882640587
+crayon [F1]: 0.3727810650887574
+crocodile [F1]: 0.4843049327354261
+crown [F1]: 0.7925407925407926
+cruise ship [F1]: 0.6034063260340632
+cup [F1]: 0.41163310961968685
+diamond [F1]: 0.7680798004987532
+dishwasher [F1]: 0.4815864022662889
+diving board [F1]: 0.3660130718954248
+dog [F1]: 0.23057644110275693
+dolphin [F1]: 0.5055555555555556
+donut [F1]: 0.7793427230046949
+door [F1]: 0.7743467933491686
+dragon [F1]: 0.28354430379746837
+dresser [F1]: 0.5336322869955158
+drill [F1]: 0.6542553191489361
+drums [F1]: 0.5466377440347072
+duck [F1]: 0.4619718309859155
+dumbbell [F1]: 0.7136150234741785
+ear [F1]: 0.7070707070707072
+elbow [F1]: 0.5190156599552572
+elephant [F1]: 0.4680851063829787
+envelope [F1]: 0.8922305764411028
+eraser [F1]: 0.40302267002518893
+eye [F1]: 0.7669902912621359
+eyeglasses [F1]: 0.7360406091370557
+face [F1]: 0.5340314136125655
+fan [F1]: 0.5060240963855421
+feather [F1]: 0.4367816091954023
+fence [F1]: 0.6473429951690821
+finger [F1]: 0.6386138613861386
+fire hydrant [F1]: 0.565597667638484
+fireplace [F1]: 0.5776699029126213
+firetruck [F1]: 0.5390070921985816
+fish [F1]: 0.7939698492462312
+flamingo [F1]: 0.6796116504854369
+flashlight [F1]: 0.6774193548387097
+flip flops [F1]: 0.6290322580645162
+floor lamp [F1]: 0.6861313868613138
+flower [F1]: 0.6820276497695852
+flying saucer [F1]: 0.629526462395543
+foot [F1]: 0.5808219178082192
+fork [F1]: 0.7160493827160495
+frog [F1]: 0.2457002457002457
+frying pan [F1]: 0.6794520547945205
+garden [F1]: 0.4889867841409692
+garden hose [F1]: 0.1836734693877551
+giraffe [F1]: 0.7989556135770236
+goatee [F1]: 0.5535248041775457
+golf club [F1]: 0.5787037037037037
+grapes [F1]: 0.5734597156398105
+grass [F1]: 0.6140350877192983
+guitar [F1]: 0.46534653465346537
+hamburger [F1]: 0.7635467980295567
+hammer [F1]: 0.6994818652849741
+hand [F1]: 0.7642679900744417
+harp [F1]: 0.7446808510638298
+hat [F1]: 0.6165413533834587
+headphones [F1]: 0.9
+hedgehog [F1]: 0.6092715231788078
+helicopter [F1]: 0.7194570135746606
+helmet [F1]: 0.5063938618925832
+hexagon [F1]: 0.6247191011235955
+hockey puck [F1]: 0.4873096446700507
+hockey stick [F1]: 0.5398457583547558
+horse [F1]: 0.6064814814814815
+hospital [F1]: 0.6753246753246753
+hot air balloon [F1]: 0.6759259259259258
+hot dog [F1]: 0.5253863134657837
+hot tub [F1]: 0.3807228915662651
+hourglass [F1]: 0.8678304239401496
+house [F1]: 0.6898263027295285
+house plant [F1]: 0.7735849056603773
+hurricane [F1]: 0.26
+ice cream [F1]: 0.8465346534653465
+jacket [F1]: 0.6595174262734584
+jail [F1]: 0.7537688442211055
+kangaroo [F1]: 0.5912240184757506
+key [F1]: 0.5784313725490196
+keyboard [F1]: 0.48245614035087725
+knee [F1]: 0.5532879818594105
+knife [F1]: 0.587378640776699
+ladder [F1]: 0.8866498740554157
+lantern [F1]: 0.524822695035461
+laptop [F1]: 0.6547884187082404
+leaf [F1]: 0.5546666666666666
+leg [F1]: 0.45965770171149145
+light bulb [F1]: 0.5588235294117648
+lighter [F1]: 0.6442307692307693
+lighthouse [F1]: 0.6157894736842106
+lightning [F1]: 0.570754716981132
+line [F1]: 0.7112810707456978
+lion [F1]: 0.6031746031746033
+lipstick [F1]: 0.6466165413533834
+lobster [F1]: 0.24773413897280966
+lollipop [F1]: 0.8
+mailbox [F1]: 0.6701298701298701
+map [F1]: 0.5754716981132075
+marker [F1]: 0.2659846547314578
+matches [F1]: 0.39452054794520547
+megaphone [F1]: 0.6634146341463415
+mermaid [F1]: 0.6196473551637279
+microphone [F1]: 0.6461538461538461
+microwave [F1]: 0.7526315789473683
+monkey [F1]: 0.40932642487046633
+moon [F1]: 0.5091863517060368
+mosquito [F1]: 0.3829787234042554
+motorbike [F1]: 0.4745762711864407
+mountain [F1]: 0.6796116504854369
+mouse [F1]: 0.3286118980169971
+moustache [F1]: 0.5536992840095466
+mouth [F1]: 0.6379746835443039
+mug [F1]: 0.48257372654155495
+mushroom [F1]: 0.7506561679790026
+nail [F1]: 0.509090909090909
+necklace [F1]: 0.6031746031746033
+nose [F1]: 0.6318289786223278
+ocean [F1]: 0.51270207852194
+octagon [F1]: 0.584070796460177
+octopus [F1]: 0.7780548628428928
+onion [F1]: 0.5882352941176471
+oven [F1]: 0.32926829268292684
+owl [F1]: 0.5801526717557252
+paintbrush [F1]: 0.47482014388489213
+paint can [F1]: 0.3989071038251366
+palm tree [F1]: 0.7264150943396227
+panda [F1]: 0.5094339622641509
+pants [F1]: 0.790909090909091
+paper clip [F1]: 0.6819338422391857
+parachute [F1]: 0.7344632768361582
+parrot [F1]: 0.48623853211009177
+passport [F1]: 0.47150259067357514
+peanut [F1]: 0.6321243523316062
+pear [F1]: 0.7798408488063661
+peas [F1]: 0.45213849287169044
+pencil [F1]: 0.4289156626506024
+penguin [F1]: 0.5758354755784062
+piano [F1]: 0.4345403899721449
+pickup truck [F1]: 0.4920634920634921
+picture frame [F1]: 0.7529976019184652
+pig [F1]: 0.504109589041096
+pillow [F1]: 0.5406976744186047
+pineapple [F1]: 0.7506297229219144
+pizza [F1]: 0.5297029702970297
+pliers [F1]: 0.47671232876712333
+police car [F1]: 0.5513196480938416
+pond [F1]: 0.3556485355648536
+pool [F1]: 0.21739130434782608
+popsicle [F1]: 0.7589743589743589
+postcard [F1]: 0.6060606060606062
+potato [F1]: 0.5202863961813843
+power outlet [F1]: 0.5934065934065934
+purse [F1]: 0.6086956521739131
+rabbit [F1]: 0.5749385749385749
+raccoon [F1]: 0.2414698162729659
+radio [F1]: 0.5949656750572082
+rain [F1]: 0.7446300715990454
+rainbow [F1]: 0.8221153846153847
+rake [F1]: 0.6306818181818182
+remote control [F1]: 0.6270783847980997
+rhinoceros [F1]: 0.5092838196286473
+rifle [F1]: 0.5434782608695652
+river [F1]: 0.5269121813031162
+roller coaster [F1]: 0.4685714285714285
+rollerskates [F1]: 0.8229426433915212
+sailboat [F1]: 0.8240963855421686
+sandwich [F1]: 0.5312500000000001
+saw [F1]: 0.7204030226700252
+saxophone [F1]: 0.6666666666666666
+school bus [F1]: 0.3838383838383838
+scissors [F1]: 0.6714975845410629
+scorpion [F1]: 0.6302083333333334
+screwdriver [F1]: 0.510752688172043
+sea turtle [F1]: 0.6042780748663102
+see saw [F1]: 0.7386934673366833
+shark [F1]: 0.6097560975609756
+sheep [F1]: 0.7018469656992086
+shoe [F1]: 0.5539906103286385
+shorts [F1]: 0.6756756756756757
+shovel [F1]: 0.6219839142091153
+sink [F1]: 0.6055979643765903
+skateboard [F1]: 0.7666666666666666
+skull [F1]: 0.770780856423174
+skyscraper [F1]: 0.6060606060606062
+sleeping bag [F1]: 0.5197740112994351
+smiley face [F1]: 0.7123893805309734
+snail [F1]: 0.7699757869249395
+snake [F1]: 0.501098901098901
+snorkel [F1]: 0.5611510791366906
+snowflake [F1]: 0.7371134020618557
+snowman [F1]: 0.8114558472553699
+soccer ball [F1]: 0.6118251928020566
+sock [F1]: 0.6969696969696969
+speedboat [F1]: 0.45842696629213486
+spider [F1]: 0.6523809523809525
+spoon [F1]: 0.6146993318485523
+spreadsheet [F1]: 0.5408163265306124
+square [F1]: 0.7346938775510204
+squiggle [F1]: 0.25988700564971756
+squirrel [F1]: 0.596401028277635
+stairs [F1]: 0.8621553884711779
+star [F1]: 0.8652849740932641
+steak [F1]: 0.36056338028169016
+stereo [F1]: 0.5388601036269429
+stethoscope [F1]: 0.6914893617021277
+stitches [F1]: 0.665
+stop sign [F1]: 0.806930693069307
+stove [F1]: 0.596401028277635
+strawberry [F1]: 0.7572815533980584
+streetlight [F1]: 0.6527415143603132
+string bean [F1]: 0.4049382716049383
+submarine [F1]: 0.6040609137055838
+suitcase [F1]: 0.6208530805687205
+sun [F1]: 0.7939698492462312
+swan [F1]: 0.5891089108910892
+sweater [F1]: 0.6308068459657702
+swing set [F1]: 0.7836538461538461
+sword [F1]: 0.7237569060773481
+syringe [F1]: 0.6112600536193028
+table [F1]: 0.6666666666666666
+teapot [F1]: 0.6822916666666666
+teddy-bear [F1]: 0.6379746835443039
+telephone [F1]: 0.4139941690962099
+television [F1]: 0.8354430379746836
+tennis racquet [F1]: 0.7467362924281984
+tent [F1]: 0.7
+The Eiffel Tower [F1]: 0.7656612529002321
+The Great Wall of China [F1]: 0.2603550295857988
+The Mona Lisa [F1]: 0.7061611374407583
+tiger [F1]: 0.3870967741935484
+toaster [F1]: 0.545
+toe [F1]: 0.45108695652173914
+toilet [F1]: 0.7303102625298329
+tooth [F1]: 0.7286821705426357
+toothbrush [F1]: 0.5864332603938731
+toothpaste [F1]: 0.2783171521035599
+tornado [F1]: 0.5841121495327103
+tractor [F1]: 0.6386138613861386
+traffic light [F1]: 0.7692307692307692
+train [F1]: 0.5108695652173914
+tree [F1]: 0.6893203883495145
+triangle [F1]: 0.8461538461538461
+trombone [F1]: 0.3275862068965517
+truck [F1]: 0.40764331210191085
+trumpet [F1]: 0.471395881006865
+t-shirt [F1]: 0.7990543735224587
+umbrella [F1]: 0.8452088452088452
+underwear [F1]: 0.6954314720812182
+van [F1]: 0.43478260869565216
+vase [F1]: 0.6569343065693429
+violin [F1]: 0.3443396226415094
+washing machine [F1]: 0.7135678391959798
+watermelon [F1]: 0.4918032786885245
+waterslide [F1]: 0.45918367346938777
+whale [F1]: 0.5397727272727272
+wheel [F1]: 0.6218097447795824
+windmill [F1]: 0.6776859504132232
+wine bottle [F1]: 0.7582938388625592
+wine glass [F1]: 0.8671679197994988
+wristwatch [F1]: 0.5722222222222223
+yoga [F1]: 0.4343163538873994
+zebra [F1]: 0.5922077922077922
+zigzag [F1]: 0.6768558951965065
+
+
+FPR, False Positive Rate
+aircraft carrier [FPR]: 0.0015261627906976744
+airplane [FPR]: 0.0007558139534883721
+alarm clock [FPR]: 0.0007994186046511628
+ambulance [FPR]: 0.0008430232558139535
+angel [FPR]: 0.0011046511627906977
+animal migration [FPR]: 0.003328488372093023
+ant [FPR]: 0.0014534883720930232
+anvil [FPR]: 0.000566860465116279
+apple [FPR]: 0.001002906976744186
+arm [FPR]: 0.001380813953488372
+asparagus [FPR]: 0.0017296511627906976
+axe [FPR]: 0.0009302325581395349
+backpack [FPR]: 0.0013372093023255815
+banana [FPR]: 0.0015116279069767441
+bandage [FPR]: 0.0008720930232558139
+barn [FPR]: 0.0011482558139534883
+baseball [FPR]: 0.0012209302325581395
+baseball bat [FPR]: 0.0008284883720930232
+basket [FPR]: 0.0008866279069767442
+basketball [FPR]: 0.0013517441860465115
+bat [FPR]: 0.001816860465116279
+bathtub [FPR]: 0.0017005813953488373
+beach [FPR]: 0.0018023255813953488
+bear [FPR]: 0.0023401162790697675
+beard [FPR]: 0.0017732558139534884
+bed [FPR]: 0.0011773255813953489
+bee [FPR]: 0.0011482558139534883
+belt [FPR]: 0.0012790697674418604
+bench [FPR]: 0.0011627906976744186
+bicycle [FPR]: 0.0014244186046511627
+binoculars [FPR]: 0.0010319767441860465
+bird [FPR]: 0.0009447674418604651
+birthday cake [FPR]: 0.0017587209302325582
+blackberry [FPR]: 0.0033575581395348837
+blueberry [FPR]: 0.0019622093023255816
+book [FPR]: 0.0012209302325581395
+boomerang [FPR]: 0.0013372093023255815
+bottlecap [FPR]: 0.001133720930232558
+bowtie [FPR]: 0.0007412790697674419
+bracelet [FPR]: 0.0009883720930232557
+brain [FPR]: 0.0016424418604651164
+bread [FPR]: 0.0009011627906976744
+bridge [FPR]: 0.001555232558139535
+broccoli [FPR]: 0.001002906976744186
+broom [FPR]: 0.0016569767441860464
+bucket [FPR]: 0.0010174418604651163
+bulldozer [FPR]: 0.0009738372093023255
+bus [FPR]: 0.001816860465116279
+bush [FPR]: 0.0016569767441860464
+butterfly [FPR]: 0.0005377906976744186
+cactus [FPR]: 0.000566860465116279
+cake [FPR]: 0.0014680232558139535
+calculator [FPR]: 0.0010174418604651163
+calendar [FPR]: 0.002005813953488372
+camel [FPR]: 0.0006540697674418605
+camera [FPR]: 0.0008575581395348838
+camouflage [FPR]: 0.0031540697674418603
+campfire [FPR]: 0.0017441860465116279
+candle [FPR]: 0.0015843023255813953
+cannon [FPR]: 0.0015843023255813953
+canoe [FPR]: 0.0012063953488372092
+car [FPR]: 0.0012209302325581395
+carrot [FPR]: 0.0006686046511627907
+castle [FPR]: 0.0010901162790697674
+cat [FPR]: 0.001380813953488372
+ceiling fan [FPR]: 0.0008720930232558139
+cello [FPR]: 0.0013662790697674418
+cell phone [FPR]: 0.0010610465116279069
+chair [FPR]: 0.00046511627906976747
+chandelier [FPR]: 0.001380813953488372
+church [FPR]: 0.001002906976744186
+circle [FPR]: 0.0013662790697674418
+clarinet [FPR]: 0.001133720930232558
+clock [FPR]: 0.0006976744186046512
+cloud [FPR]: 0.0011046511627906977
+coffee cup [FPR]: 0.0010901162790697674
+compass [FPR]: 0.0012063953488372092
+computer [FPR]: 0.0006540697674418605
+cookie [FPR]: 0.0011046511627906977
+cooler [FPR]: 0.0010174418604651163
+couch [FPR]: 0.0009156976744186047
+cow [FPR]: 0.0012063953488372092
+crab [FPR]: 0.0013662790697674418
+crayon [FPR]: 0.0010901162790697674
+crocodile [FPR]: 0.002005813953488372
+crown [FPR]: 0.0008575581395348838
+cruise ship [FPR]: 0.0012645348837209303
+cup [FPR]: 0.0022529069767441862
+diamond [FPR]: 0.0006831395348837209
+dishwasher [FPR]: 0.0009883720930232557
+diving board [FPR]: 0.0007267441860465116
+dog [FPR]: 0.0022238372093023257
+dolphin [FPR]: 0.001002906976744186
+donut [FPR]: 0.0008720930232558139
+door [FPR]: 0.0008430232558139535
+dragon [FPR]: 0.0020203488372093023
+dresser [FPR]: 0.0018459302325581396
+drill [FPR]: 0.0007703488372093023
+drums [FPR]: 0.0019622093023255816
+duck [FPR]: 0.0010610465116279069
+dumbbell [FPR]: 0.0010755813953488372
+ear [FPR]: 0.0008139534883720931
+elbow [FPR]: 0.0019040697674418605
+elephant [FPR]: 0.0018023255813953488
+envelope [FPR]: 0.00030523255813953487
+eraser [FPR]: 0.0017005813953488373
+eye [FPR]: 0.0007848837209302326
+eyeglasses [FPR]: 0.0007122093023255813
+face [FPR]: 0.0011627906976744186
+fan [FPR]: 0.0006976744186046512
+feather [FPR]: 0.0020348837209302325
+fence [FPR]: 0.0011627906976744186
+finger [FPR]: 0.0010901162790697674
+fire hydrant [FPR]: 0.0006686046511627907
+fireplace [FPR]: 0.0013517441860465115
+firetruck [FPR]: 0.0015843023255813953
+fish [FPR]: 0.0005813953488372093
+flamingo [FPR]: 0.0010465116279069768
+flashlight [FPR]: 0.0012645348837209303
+flip flops [FPR]: 0.0007994186046511628
+floor lamp [FPR]: 0.0010174418604651163
+flower [FPR]: 0.00125
+flying saucer [FPR]: 0.0006686046511627907
+foot [FPR]: 0.0008575581395348838
+fork [FPR]: 0.0008720930232558139
+frog [FPR]: 0.0022819767441860463
+frying pan [FPR]: 0.0005959302325581396
+garden [FPR]: 0.0020784883720930234
+garden hose [FPR]: 0.0009738372093023255
+giraffe [FPR]: 0.00043604651162790697
+goatee [FPR]: 0.001119186046511628
+golf club [FPR]: 0.001555232558139535
+grapes [FPR]: 0.0014680232558139535
+grass [FPR]: 0.001686046511627907
+guitar [FPR]: 0.0015988372093023256
+hamburger [FPR]: 0.0007412790697674419
+hammer [FPR]: 0.0007412790697674419
+hand [FPR]: 0.0007122093023255813
+harp [FPR]: 0.0005232558139534884
+hat [FPR]: 0.0011046511627906977
+headphones [FPR]: 0.00029069767441860465
+hedgehog [FPR]: 0.0016715116279069767
+helicopter [FPR]: 0.0012063953488372092
+helmet [FPR]: 0.0013372093023255815
+hexagon [FPR]: 0.0015406976744186047
+hockey puck [FPR]: 0.0014244186046511627
+hockey stick [FPR]: 0.0012209302325581395
+horse [FPR]: 0.0014680232558139535
+hospital [FPR]: 0.0007994186046511628
+hot air balloon [FPR]: 0.00125
+hot dog [FPR]: 0.001947674418604651
+hot tub [FPR]: 0.0019767441860465114
+hourglass [FPR]: 0.0003924418604651163
+house [FPR]: 0.0009302325581395349
+house plant [FPR]: 0.0008720930232558139
+hurricane [FPR]: 0.0021511627906976743
+ice cream [FPR]: 0.0004796511627906977
+jacket [FPR]: 0.0007267441860465116
+jail [FPR]: 0.0006976744186046512
+kangaroo [FPR]: 0.0015261627906976744
+key [FPR]: 0.001308139534883721
+keyboard [FPR]: 0.0021220930232558138
+knee [FPR]: 0.0017296511627906976
+knife [FPR]: 0.0013226744186046512
+ladder [FPR]: 0.00030523255813953487
+lantern [FPR]: 0.0016279069767441861
+laptop [FPR]: 0.0014825581395348838
+leaf [FPR]: 0.0010319767441860465
+leg [FPR]: 0.0016715116279069767
+light bulb [FPR]: 0.0006540697674418605
+lighter [FPR]: 0.0011918604651162791
+lighthouse [FPR]: 0.0009156976744186047
+lightning [FPR]: 0.0014970930232558138
+line [FPR]: 0.0019912790697674417
+lion [FPR]: 0.0009302325581395349
+lipstick [FPR]: 0.0010174418604651163
+lobster [FPR]: 0.001308139534883721
+lollipop [FPR]: 0.0005377906976744186
+mailbox [FPR]: 0.0008139534883720931
+map [FPR]: 0.0014825581395348838
+marker [FPR]: 0.0020203488372093023
+matches [FPR]: 0.0013517441860465115
+megaphone [FPR]: 0.0010755813953488372
+mermaid [FPR]: 0.0010755813953488372
+microphone [FPR]: 0.0009302325581395349
+microwave [FPR]: 0.0005377906976744186
+monkey [FPR]: 0.001555232558139535
+moon [FPR]: 0.0012209302325581395
+mosquito [FPR]: 0.0015116279069767441
+motorbike [FPR]: 0.0016715116279069767
+mountain [FPR]: 0.0010465116279069768
+mouse [FPR]: 0.001380813953488372
+moustache [FPR]: 0.0014970930232558138
+mouth [FPR]: 0.001002906976744186
+mug [FPR]: 0.0012063953488372092
+mushroom [FPR]: 0.0005523255813953489
+nail [FPR]: 0.0006686046511627907
+necklace [FPR]: 0.0015697674418604652
+nose [FPR]: 0.0012790697674418604
+ocean [FPR]: 0.0017732558139534884
+octagon [FPR]: 0.0005813953488372093
+octopus [FPR]: 0.0006540697674418605
+onion [FPR]: 0.0009302325581395349
+oven [FPR]: 0.0010755813953488372
+owl [FPR]: 0.0011482558139534883
+paintbrush [FPR]: 0.0017151162790697675
+paint can [FPR]: 0.0013517441860465115
+palm tree [FPR]: 0.0010174418604651163
+panda [FPR]: 0.001686046511627907
+pants [FPR]: 0.0009593023255813954
+paper clip [FPR]: 0.0008575581395348838
+parachute [FPR]: 0.0003488372093023256
+parrot [FPR]: 0.0018895348837209302
+passport [FPR]: 0.001380813953488372
+peanut [FPR]: 0.0009302325581395349
+pear [FPR]: 0.00043604651162790697
+peas [FPR]: 0.002616279069767442
+pencil [FPR]: 0.0018313953488372093
+penguin [FPR]: 0.001119186046511628
+piano [FPR]: 0.0011773255813953489
+pickup truck [FPR]: 0.0012354651162790698
+picture frame [FPR]: 0.0008720930232558139
+pig [FPR]: 0.0010610465116279069
+pillow [FPR]: 0.0007412790697674419
+pineapple [FPR]: 0.0006976744186046512
+pizza [FPR]: 0.0014098837209302326
+pliers [FPR]: 0.001133720930232558
+police car [FPR]: 0.0006831395348837209
+pond [FPR]: 0.002805232558139535
+pool [FPR]: 0.0018604651162790699
+popsicle [FPR]: 0.0006104651162790697
+postcard [FPR]: 0.0011046511627906977
+potato [FPR]: 0.0015988372093023256
+power outlet [FPR]: 0.0008139534883720931
+purse [FPR]: 0.0008139534883720931
+rabbit [FPR]: 0.001308139534883721
+raccoon [FPR]: 0.0019622093023255816
+radio [FPR]: 0.001555232558139535
+rain [FPR]: 0.0009156976744186047
+rainbow [FPR]: 0.0006540697674418605
+rake [FPR]: 0.0005959302325581396
+remote control [FPR]: 0.0012936046511627906
+rhinoceros [FPR]: 0.0011773255813953489
+rifle [FPR]: 0.0019622093023255816
+river [FPR]: 0.0008720930232558139
+roller coaster [FPR]: 0.0009883720930232557
+rollerskates [FPR]: 0.0005232558139534884
+sailboat [FPR]: 0.0006395348837209302
+sandwich [FPR]: 0.0011918604651162791
+saw [FPR]: 0.0007848837209302326
+saxophone [FPR]: 0.0009593023255813954
+school bus [FPR]: 0.0017441860465116279
+scissors [FPR]: 0.0010901162790697674
+scorpion [FPR]: 0.0009156976744186047
+screwdriver [FPR]: 0.001119186046511628
+sea turtle [FPR]: 0.0008866279069767442
+see saw [FPR]: 0.0007412790697674419
+shark [FPR]: 0.0012354651162790698
+sheep [FPR]: 0.0006686046511627907
+shoe [FPR]: 0.0015697674418604652
+shorts [FPR]: 0.0006540697674418605
+shovel [FPR]: 0.0008284883720930232
+sink [FPR]: 0.0010755813953488372
+skateboard [FPR]: 0.0008575581395348838
+skull [FPR]: 0.0006395348837209302
+skyscraper [FPR]: 0.0007703488372093023
+sleeping bag [FPR]: 0.0009011627906976744
+smiley face [FPR]: 0.0013226744186046512
+snail [FPR]: 0.0007848837209302326
+snake [FPR]: 0.002049418604651163
+snorkel [FPR]: 0.0014534883720930232
+snowflake [FPR]: 0.0006540697674418605
+snowman [FPR]: 0.0007122093023255813
+soccer ball [FPR]: 0.0010174418604651163
+sock [FPR]: 0.0008430232558139535
+speedboat [FPR]: 0.0020784883720930234
+spider [FPR]: 0.0012063953488372092
+spoon [FPR]: 0.0016133720930232558
+spreadsheet [FPR]: 0.00125
+square [FPR]: 0.0011482558139534883
+squiggle [FPR]: 0.0015697674418604652
+squirrel [FPR]: 0.0010610465116279069
+stairs [FPR]: 0.0003924418604651163
+star [FPR]: 0.0002761627906976744
+steak [FPR]: 0.0013226744186046512
+stereo [FPR]: 0.0011918604651162791
+stethoscope [FPR]: 0.0006686046511627907
+stitches [FPR]: 0.0009738372093023255
+stop sign [FPR]: 0.0005959302325581396
+stove [FPR]: 0.0010610465116279069
+strawberry [FPR]: 0.0008139534883720931
+streetlight [FPR]: 0.0008430232558139535
+string bean [FPR]: 0.0017877906976744187
+submarine [FPR]: 0.0010901162790697674
+suitcase [FPR]: 0.0013226744186046512
+sun [FPR]: 0.0005813953488372093
+swan [FPR]: 0.0012354651162790698
+sweater [FPR]: 0.0011627906976744186
+swing set [FPR]: 0.0007703488372093023
+sword [FPR]: 0.0004505813953488372
+syringe [FPR]: 0.0008575581395348838
+table [FPR]: 0.0011046511627906977
+teapot [FPR]: 0.0007703488372093023
+teddy-bear [FPR]: 0.001002906976744186
+telephone [FPR]: 0.0010465116279069768
+television [FPR]: 0.00043604651162790697
+tennis racquet [FPR]: 0.0005813953488372093
+tent [FPR]: 0.0008720930232558139
+The Eiffel Tower [FPR]: 0.0009593023255813954
+The Great Wall of China [FPR]: 0.0013662790697674418
+The Mona Lisa [FPR]: 0.0010610465116279069
+tiger [FPR]: 0.001816860465116279
+toaster [FPR]: 0.0013226744186046512
+toe [FPR]: 0.0012354651162790698
+toilet [FPR]: 0.0009593023255813954
+tooth [FPR]: 0.0006686046511627907
+toothbrush [FPR]: 0.0017877906976744187
+toothpaste [FPR]: 0.0009593023255813954
+tornado [FPR]: 0.0014970930232558138
+tractor [FPR]: 0.0010901162790697674
+traffic light [FPR]: 0.0006976744186046512
+train [FPR]: 0.0010755813953488372
+tree [FPR]: 0.0010174418604651163
+triangle [FPR]: 0.0005813953488372093
+trombone [FPR]: 0.0013226744186046512
+truck [FPR]: 0.002543604651162791
+trumpet [FPR]: 0.001947674418604651
+t-shirt [FPR]: 0.0007848837209302326
+umbrella [FPR]: 0.0005087209302325581
+underwear [FPR]: 0.0008284883720930232
+van [FPR]: 0.0018023255813953488
+vase [FPR]: 0.0011046511627906977
+violin [FPR]: 0.002194767441860465
+washing machine [FPR]: 0.0008139534883720931
+watermelon [FPR]: 0.0011046511627906977
+waterslide [FPR]: 0.0014825581395348838
+whale [FPR]: 0.0008284883720930232
+wheel [FPR]: 0.0014098837209302326
+windmill [FPR]: 0.0005813953488372093
+wine bottle [FPR]: 0.0009011627906976744
+wine glass [FPR]: 0.00037790697674418603
+wristwatch [FPR]: 0.0008284883720930232
+yoga [FPR]: 0.0013372093023255815
+zebra [FPR]: 0.0010319767441860465
+zigzag [FPR]: 0.0014970930232558138

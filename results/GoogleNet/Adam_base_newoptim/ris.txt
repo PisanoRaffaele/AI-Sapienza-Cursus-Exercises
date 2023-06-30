@@ -9,4 +9,4 @@ learningRate: 0.001
 weightDeacy: 0.0001
 epochs: 50
 
-GoogleNet Results {'test_acc': 0.5845797061920166, 'val_acc': 0.5865796804428101}
+GoogleNet Results {'test_acc': 0.585159420967102, 'val_acc': 0.5911014676094055}

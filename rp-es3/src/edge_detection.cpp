@@ -68,12 +68,6 @@ Image non_maximum_suppression(const Image& mag, const Image& dir)
             float q = 255;
             float r = 255;
 
-            // if (x == 136 && y == 1)
-            // {
-            //     printf("x:%d y:%d angle:%f\n", x, y, angle(x, y, 0));
-            //     printf("mag:%f\n", mag(x, y, 0));
-            // }
-
             // angle 0
             if (0 <= angle(x, y, 0) && angle(x, y, 0) < 22.5) {
                 q = mag.clamped_pixel(x + 1, y, 0);
